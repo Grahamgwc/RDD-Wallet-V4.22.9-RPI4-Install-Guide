@@ -30,6 +30,7 @@ Disclaimer:
 
 This guide is provided solely for informational and educational purposes. The authors and publishers accept no responsibility or liability for any outcomes resulting from its use, including but not limited to financial loss, hardware or software damage, data loss, or security breaches. By following this guide to begin staking Reddcoin on a Raspberry Pi 4 (RPI4), you do so entirely at your own risk. It is your responsibility to ensure that you understand the technical requirements, risks, and legal considerations involved in staking cryptocurrency. Always perform your own due diligence and consult official Reddcoin resources or trusted experts as needed.
 
-[Setting Up RDD Wallet on RPI4 230725.pdf](https://github.com/user-attachments/files/21387371/Setting.Up.RDD.Wallet.on.RPI4.230725.pdf)
+[Setting Up RDD Wallet on RPI4 310725.pdf](https://github.com/user-attachments/files/21528602/Setting.Up.RDD.Wallet.on.RPI4.310725.pdf)
+
 
 
