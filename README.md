@@ -1,6 +1,6 @@
-# RDD-Wallet-V4.22.9-RPI4-Install-Guide
+# Reddcoin-(RDD)-Wallet-V4.22.9-RPI4-Install-Guide
 
-## RDD Wallet Wiki
+## Reddcoin (RDD) Wallet Wiki
 For additional setup instructions, troubleshooting, and guides, please visit our [Wiki](https://github.com/Grahamgwc/RDD-Wallet-V4.22.9-RPI4-Install-Guide/wiki).
 
 How to install a Reddcoin Wallet for Staking on a RPI4. PDF file of full instruction may be downloaded from the link at the end of the notes below.
